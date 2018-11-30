@@ -7,6 +7,5 @@ in code source you will find a random delay ( to simulate a error in cpu ) and h
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AlNFWUTfhhQ/0.jpg)](https://www.youtube.com/watch?v=AlNFWUTfhhQ)
 
-see aslo : Software powering Falcon 9 & Dragon - Simply Explained
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/N5faA2MZ6jY/0.jpg)](https://www.youtube.com/watch?v=N5faA2MZ6jY)
+see aslo : https://www.savjee.be/videos/simply-explained/falcon9-software-hardware/
 
